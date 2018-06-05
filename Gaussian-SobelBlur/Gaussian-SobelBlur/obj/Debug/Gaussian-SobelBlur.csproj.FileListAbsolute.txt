@@ -1,0 +1,10 @@
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\bin\Debug\Gaussian-SobelBlur.exe.config
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\bin\Debug\Gaussian-SobelBlur.exe
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\bin\Debug\Gaussian-SobelBlur.pdb
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian-SobelBlur.csprojResolveAssemblyReference.cache
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian_SobelBlur.Form1.resources
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian_SobelBlur.Properties.Resources.resources
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian-SobelBlur.csproj.GenerateResource.cache
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian-SobelBlur.csproj.CoreCompileInputs.cache
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian-SobelBlur.exe
+D:\DPT\Gaussian-SobelBlur\Gaussian-SobelBlur\Gaussian-SobelBlur\obj\Debug\Gaussian-SobelBlur.pdb
